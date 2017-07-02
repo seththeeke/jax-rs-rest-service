@@ -2,3 +2,8 @@
 *.class
 *.classpath
 *.settings
+*.bin
+*.lock
+*.jar
+*.MF
+.gradle/buildOutputCleanup/*
