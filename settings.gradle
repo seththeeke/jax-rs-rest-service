@@ -1,1 +1,3 @@
 include 'SimpleServer'
+include 'HelloService'
+include 'GoodbyeService'
